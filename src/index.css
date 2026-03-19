@@ -8,11 +8,11 @@
 
 @layer base {
   body {
-    @apply font-sans antialiased text-zinc-900 bg-zinc-50;
+    @apply font-sans antialiased text-zinc-100 bg-zinc-950;
   }
 }
 
-/* Custom scrollbar for better UI */
+/* Custom scrollbar for dark theme */
 ::-webkit-scrollbar {
   width: 6px;
 }
@@ -22,9 +22,9 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  @apply bg-zinc-200 rounded-full;
+  @apply bg-zinc-800 rounded-full;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  @apply bg-zinc-300;
+  @apply bg-zinc-700;
 }

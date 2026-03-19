@@ -1,5 +1,5 @@
 {
-  "name": "WinEngine AI - Ultimate Windows Assistant",
-  "description": "A multi-agent AI system for diagnosing, troubleshooting, and optimizing Windows systems.",
+  "name": "Groq Llama Chat",
+  "description": "A high-performance chat interface powered by Groq and Llama 3.3 70B.",
   "requestFramePermissions": []
 }
